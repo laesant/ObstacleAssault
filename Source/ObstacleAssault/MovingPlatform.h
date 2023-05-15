@@ -25,6 +25,9 @@ public:
 
 	UPROPERTY(EditAnywhere)
 	int32 MyInt = 99;
+
+	UPROPERTY(EditAnywhere)
+	int32 MyInt2 = 32;
 	
 	UPROPERTY(EditAnywhere)
 	float MyFloat = 5.5;
